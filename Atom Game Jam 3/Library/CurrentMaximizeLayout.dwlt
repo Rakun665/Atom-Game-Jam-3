@@ -24,9 +24,9 @@ MonoBehaviour:
     width: 1792
     height: 1070
   m_MinSize: {x: 908, y: 421}
-  m_MaxSize: {x: 22003, y: 10000}
+  m_MaxSize: {x: 22003, y: 10021}
   vertical: 0
-  controlID: 12230
+  controlID: 13369
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 421}
   m_MaxSize: {x: 4001, y: 8021}
   vertical: 1
-  controlID: 12231
+  controlID: 13370
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -203,9 +203,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -13.934933, y: -4.3372173, z: -47.822453}
+    m_Target: {x: -14.499385, y: -5.7964587, z: -64.89135}
     speed: 2
-    m_Value: {x: -13.934933, y: -4.3372173, z: -47.822453}
+    m_Value: {x: -14.499385, y: -5.7964587, z: -64.89135}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -256,9 +256,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 2.6776078
+    m_Target: 1.4862843
     speed: 2
-    m_Value: 2.6776078
+    m_Value: 1.4862843
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -302,8 +302,8 @@ MonoBehaviour:
     y: 548.5
     width: 847
     height: 521.5
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -337,7 +337,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -12480
+  m_LastSelectedObjectID: 22194
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -394,7 +394,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: acd6ffffdcdbffffd2f0ffffe6f0fffff8f0ffff40fbffffae3f0000b83f000018540000
+      m_ExpandedIDs: acd6ffffdcdbffffd2f0ffffe6f0fffff8f0ffff40fbffffae3f0000b83f000018540000b2560000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -482,13 +482,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Assets
+    - Assets/codes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Assets
+  - Assets/codes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/emiryilmaz/Documents/GitHub/Atom-Game-Jam-3/Atom Game
     Jam 3
@@ -496,8 +496,8 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 08400000
-    m_LastClickedID: 16392
+    m_SelectedIDs: 0a400000
+    m_LastClickedID: 16394
     m_ExpandedIDs: 000000000440000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -551,9 +551,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 40cfffff
-    m_LastClickedInstanceID: -12480
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: b2560000
+    m_LastClickedInstanceID: 22194
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -639,7 +639,7 @@ MonoBehaviour:
     m_CachedPref: -160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: -12480
+  m_LastInspectedObjectInstanceID: 22194
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_LockTracker:
