@@ -4,15 +4,13 @@ using UnityEngine;
 
 public class level2 : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    void OnTriggerEnter2D(Collider2D doo)
     {
-        
+        if (doo.gameObject.tag == ("mass"))
+        {
+            print("x");
+           
+        }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
