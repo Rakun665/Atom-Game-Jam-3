@@ -6,7 +6,7 @@ public class MENU : MonoBehaviour
 {
     public void Play()
     {
-        SceneManager.LoadScene("deneme");
+        SceneManager.LoadScene("Level1");
     }
     public  void Exit()
     {
