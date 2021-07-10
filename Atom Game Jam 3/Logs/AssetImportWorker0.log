@@ -2656,3 +2656,76 @@ System memory in use after: 195.2 MB.
 Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2611.
 Total: 4.465111 ms (FindLiveObjects: 0.414645 ms CreateObjectMapping: 0.160036 ms MarkObjects: 3.697651 ms  DeleteObjects: 0.190166 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 354.029567 seconds.
+  path: Assets/Assets/sag_kap.png
+  artifactKey: Guid(ed79a1d470bb143349cc544f94ba019c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/sag_kap.png using Guid(ed79a1d470bb143349cc544f94ba019c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd289bdff80bddc8de458720e04d55fb') in 0.079460 seconds
+  Import took 0.083341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Assets/sol_kap.png
+  artifactKey: Guid(ab0f605dc474847268551d051dfcdba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/sol_kap.png using Guid(ab0f605dc474847268551d051dfcdba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a31923bcd7987da7de45b986020b052') in 0.013987 seconds
+  Import took 0.017497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.114496 seconds.
+  path: Assets/Assets/sag_kap.png
+  artifactKey: Guid(ed79a1d470bb143349cc544f94ba019c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/sag_kap.png using Guid(ed79a1d470bb143349cc544f94ba019c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '019f49e1317eb6eb18e35f2bf7901197') in 0.010252 seconds
+  Import took 0.013645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008904 seconds.
+  path: Assets/Assets/sag_kap.png
+  artifactKey: Guid(ed79a1d470bb143349cc544f94ba019c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/sag_kap.png using Guid(ed79a1d470bb143349cc544f94ba019c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '019f49e1317eb6eb18e35f2bf7901197') in 0.014791 seconds
+  Import took 0.018953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Assets/sol_kap.png
+  artifactKey: Guid(ab0f605dc474847268551d051dfcdba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/sol_kap.png using Guid(ab0f605dc474847268551d051dfcdba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceb4f7cf64b375a1398aa2f357b73d72') in 0.009970 seconds
+  Import took 0.014401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015246 seconds.
+  path: Assets/Assets/sol_kap.png
+  artifactKey: Guid(ab0f605dc474847268551d051dfcdba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/sol_kap.png using Guid(ab0f605dc474847268551d051dfcdba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceb4f7cf64b375a1398aa2f357b73d72') in 0.011157 seconds
+  Import took 0.014865 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001821 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.572 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.4 MB.
+System memory in use after: 195.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2616.
+Total: 2.369316 ms (FindLiveObjects: 0.348850 ms CreateObjectMapping: 0.084827 ms MarkObjects: 1.853176 ms  DeleteObjects: 0.081685 ms)
+
