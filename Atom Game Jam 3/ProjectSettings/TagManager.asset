@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Ground
   - mass
+  - x
+  - y
+  - z
   layers:
   - Default
   - TransparentFX
