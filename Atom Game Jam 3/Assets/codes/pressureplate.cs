@@ -6,6 +6,7 @@ public class pressureplate : MonoBehaviour
 {
     
     Animator door;
+    [SerializeField] GameObject Gate;
 
     // Start is called before the first frame update
     void Start()
@@ -24,6 +25,7 @@ public class pressureplate : MonoBehaviour
         {
             print("x");
            door.SetBool("openn", true);
+            Gate.SetActive(true);
         }
     }
     private void OnTriggerExit2D(Collider2D other)
@@ -32,6 +34,7 @@ public class pressureplate : MonoBehaviour
         {
             print("y");
             door.SetBool("openn", false);
+            Gate.SetActive(false);
         }
     }
 

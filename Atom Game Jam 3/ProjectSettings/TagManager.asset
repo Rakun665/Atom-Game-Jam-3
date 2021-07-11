@@ -9,6 +9,10 @@ TagManager:
   - x
   - y
   - z
+  - f
+  - U
+  - c
+  - gate
   layers:
   - Default
   - TransparentFX
